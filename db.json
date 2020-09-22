@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 6,
+      "name": "Gandalf",
+      "username": "Mithrandir,
+      "email": "olorin@valinor.me"
+    },
+    {
+      "id": 7,
+      "name": "Hannibal Lecter",
+      "username": "DrLecter",
+      "email": "hannibal@cannibal.it"
+    },
+    {
+      "id": 8,
+      "name": "Bruce Wayne",
+      "username": "Batman",
+      "email": "bat@man.com"
+    },
+    {
+      "id": 9,
+      "name": "Henry Jones Jr.",
+      "username": "Indiana",
+      "email": "indiana.jones@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Emmet Brown",
+      "username": "Doc",
+      "email": "flusso.canalizzatore@grandegiove.com"
+    }
+  ]
+}
